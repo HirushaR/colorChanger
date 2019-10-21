@@ -1,2 +1,2 @@
 # colorChanger
-clolor changer with js
+clolor changer with javascript
